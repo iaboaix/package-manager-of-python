@@ -1,1 +1,3 @@
 # package-manager-of-python
+用python写一个简单的python可视化模块管理器
+支持在线检查更新、一键升级、网络模块查找、发布自己的模块等等...
